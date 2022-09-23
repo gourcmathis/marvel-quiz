@@ -17,12 +17,15 @@ function App() {
         <Header />
 
         <Routes>
-          <Route path="/" element={<Landing />} />
-          <Route path="/login" element={<Login />} />
-          <Route path="/signup" element={<Signup />} />
           <Route path="*" element={<ErrorPage />} />
-          <Route path="/welcome" element={<Welcome />} />
-          <Route path="/forgetpassword" element={<ForgetPassword />} />
+          <Route path="/marvel-quiz" element={<Landing />} />
+          <Route path="/marvel-quiz/login" element={<Login />} />
+          <Route path="/marvel-quiz/signup" element={<Signup />} />
+          <Route path="/marvel-quiz/welcome" element={<Welcome />} />
+          <Route
+            path="/marvel-quiz/forgetpassword"
+            element={<ForgetPassword />}
+          />
         </Routes>
 
         <Footer />
