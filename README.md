@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Suivez ce lien pour visualiser directement le site dpuis votre navigateur: [Marvel-Quiz](https://gourcmathis.github.io/marvel-quiz/).
 
 ## Available Scripts
 
