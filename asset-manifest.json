@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/marvel-quiz/static/css/main.4da431b1.css",
+    "main.js": "/marvel-quiz/static/js/main.f8b7ba17.js",
+    "static/js/787.bbf6091c.chunk.js": "/marvel-quiz/static/js/787.bbf6091c.chunk.js",
+    "static/media/bg-noise-texture.png": "/marvel-quiz/static/media/bg-noise-texture.78eacb5efbf473356f4a.png",
+    "static/media/spiderman.png": "/marvel-quiz/static/media/spiderman.54be21cf9a4177790824.png",
+    "static/media/xmen.png": "/marvel-quiz/static/media/xmen.294b1d93cdb93b8fd135.png",
+    "static/media/deadpool.png": "/marvel-quiz/static/media/deadpool.c9d280ad1150746a65c7.png",
+    "static/media/ironman.png": "/marvel-quiz/static/media/ironman.48dc4dc5dc767ebd4261.png",
+    "static/media/wolverine.png": "/marvel-quiz/static/media/wolverine.a67e427ce210b5240a1e.png",
+    "static/media/griffes-gauche.png": "/marvel-quiz/static/media/griffes-gauche.37577397b8ba87adde33.png",
+    "static/media/griffes-droit.png": "/marvel-quiz/static/media/griffes-droit.085de5685b6a33d9f1da.png",
+    "index.html": "/marvel-quiz/index.html",
+    "main.4da431b1.css.map": "/marvel-quiz/static/css/main.4da431b1.css.map",
+    "main.f8b7ba17.js.map": "/marvel-quiz/static/js/main.f8b7ba17.js.map",
+    "787.bbf6091c.chunk.js.map": "/marvel-quiz/static/js/787.bbf6091c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4da431b1.css",
+    "static/js/main.f8b7ba17.js"
+  ]
+}
