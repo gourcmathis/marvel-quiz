@@ -19,13 +19,10 @@ function App() {
         <Routes>
           <Route path="*" element={<ErrorPage />} />
           <Route path="/marvel-quiz" element={<Landing />} />
-          <Route path="/marvel-quiz/login" element={<Login />} />
-          <Route path="/marvel-quiz/signup" element={<Signup />} />
-          <Route path="/marvel-quiz/welcome" element={<Welcome />} />
-          <Route
-            path="/marvel-quiz/forgetpassword"
-            element={<ForgetPassword />}
-          />
+          <Route path="/login" element={<Login />} />
+          <Route path="/signup" element={<Signup />} />
+          <Route path="/welcome" element={<Welcome />} />
+          <Route path="/forgetpassword" element={<ForgetPassword />} />
         </Routes>
 
         <Footer />
