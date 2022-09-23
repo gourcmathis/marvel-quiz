@@ -5,7 +5,7 @@ const Header = () => {
     <header>
       <div className="banner-container">
         <h1>
-          <a href="/">Marvel Quiz</a>
+          <a href="/marvel-quiz">Marvel Quiz</a>
         </h1>
       </div>
     </header>
